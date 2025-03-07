@@ -26,8 +26,8 @@ app.config['SECRET_KEY'] = ''
 """
 
 # MySQL config
-app.secret_key = 'igotdakeysdakeys'
-app.config['MYSQL_HOST'] = 'localhost'
+app.secret_key = 
+app.config['MYSQL_HOST'] = 
 app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] =
 app.config['MYSQL_DB'] = 'finance_user_db'
