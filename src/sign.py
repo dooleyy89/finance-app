@@ -29,7 +29,7 @@ app.config['SECRET_KEY'] = ''
 app.secret_key = 'igotdakeysdakeys'
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'ddoo4644'
+app.config['MYSQL_PASSWORD'] =
 app.config['MYSQL_DB'] = 'finance_user_db'
 
 
